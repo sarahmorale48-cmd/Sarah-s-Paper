@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Sarah‘s paper",
+  "description": "根据论文类型和关键词，自动检索并提取现有论文中的相关联部分，提供相关的参考文献原文以及可以直接复制的脚标和参考文献格式，助你高效解决论文写作难题。",
+  "requestFramePermissions": []
+}
